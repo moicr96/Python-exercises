@@ -1,0 +1,9 @@
+descarga el instalador de python en la página https://www.python.org/downloads/
+ejecutarlo y seguir las instrucciones para instalarlo
+revisar en cmd para comprobar con el comando: 
+    python --version
+
+en una carpeta crear el primer archivo con extensión .py por ejemplo:
+    holamundo.py
+con un editor de texto escribirle código y para ejecutarlo en la linea de comandos escribir:
+    python holamundo.py
